@@ -66,8 +66,10 @@ You can Run Tbomb by just simply typing `tbomb.sh` or `Tbomb.sh` from any direct
 # CONTACT ME:
 
 Feel Free To Open An Issue  :~
-                 Mail : mailto://mporiya0209@gmail.com
+                 Mail : mporiya0209@gmail.com
+                 Instagram : __poriya_mohit_ra_wan__
 
-<a href="https:
+<a href="mailto://mporiy0209@gmail.com">Report An Issue on Email</a>
+<a href="https://www.instagram.com/__poriya_mohit_ra_wan__/">Report An Issue on Instagram</a>
 
 
