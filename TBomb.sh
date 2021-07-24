@@ -27,7 +27,7 @@ banner() {
     clear
     echo -e "\e[1;31m"
     echo ""
-    figlet -f 3d " Tbomb" |lolcat  -a -p 100000 -s 1000
+    figlet -f 3d " Tbomb"
     echo " "
     echo -e "\e[31m NOTE: Kindly move to the PIP version Of TBomb for more stability.\e[0m"
     echo " "
@@ -106,22 +106,22 @@ do
     clear
     if [ $ch -eq 1 ];then
         ./loading.sh
-        cd $HOME/UnknownTools/
+        cd $HOME
         cd Tbomb
         python3 bomber.py
         exit
     elif [ $ch -eq 2 ];then
         echo -e "\e[1;34m Downloading Latest Files..."
-        cd $HOME/UnknownTools/
+        cd $HOME
         rm -rf Tbomb
-        git clone https://github.com/Hackertrackersj/Tbomb
+        git clone https://github.com/PoriyaMohitRaWan/Tbomb.git
         cd Tbomb
 	chmod +x TBomb.sh
         bash TBomb.sh
         exit
     elif [ $ch -eq 3 ];then
         echo ""
-	figlet -f 3d " Tbomb" |lolcat  -a -p 100000 -s 1000
+	figlet -f 3d " Tbomb"
 	echo ""        
 	exit
     else
