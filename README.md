@@ -40,82 +40,27 @@ Run these commands to run TBomb
 
 ### > For Termux:
 
-**Notice:** 
-
-git installation methods are not universal and do differ between distributions,
-so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
-Commands below provide instructions for Debian-based systems.
-
 To use the bomber type the following commands in Termux:
 ```
-pkg install git
-pkg install python
-git clone https://github.com/Hackertrackersj/Tbomb.git
+https://github.com/PoriyaMohitRaWan/Tbomb.git
 cd Tbomb
-chmod +x TBomb.sh
-./TBomb.sh
+chmod +x install_termux.sh
+./install_termux.sh
 ```
-## youtube channel <a href="https://www.youtube.com/channel/UCfzFTlm5vHNSrzZFm-At-Yw"> click here</a>
 
 ### > For Linux:
 
-**Notice:** 
-
-git installation methods are not universal and do differ between distributions,
-so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
-Commands below provide instructions for Debian-based systems.
-
 To use the bomber type the following commands in Linux terminal:
 ```
-sudo apt install git
-git clone https://github.com/Hackertrackersj/Tbomb
-cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
+https://github.com/PoriyaMohitRaWan/Tbomb.git
+cd Tbomb
+chmod +x install_debian.sh
+./install_debian.sh
 ```
-
-### > For macOS:
-
-To use the bomber type the following commands in macOS terminal:
-```
-# Install Brew: 
-
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-# Install dependencys:
-
-brew install git
-brew install python3
-sudo easy_install pip
-sudo pip install --upgrade pip
-git clone https://github.com/Hackertrackersj/Tbomb
-cd TBomb
-chmod +x TBomb.sh
-
-# Missing Tools on MacOS
-
-Toilet cannot be installed yet. But TBomb does still work.
 
 # Run TBomb:
 
-sudo bash TBomb.sh
-```
-
-## Demontrative Video:
-
-- Watch Indian Bombing Method <a href="https://youtu.be/gq7NKkNYuVA">here</a><br>
-
-
-## CONTRIBUTORS:
-
-- **SpeedX**<br>
-[-] Mail At:https://github.com/Hackertrackersj/Tbomb
-
-
-
-
+You can Run Tbomb by just simply typing `tbomb.sh` or `Tbomb.sh` from any directory (folder) in Termux or in Terminal (linux_debian)
 
 
 # CONTACT ME:
@@ -123,8 +68,7 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail:https://github.com/Hackertrackersj/Tbomb
-       YouTube Channel:https://www.youtube.com/channel/UCqqNyOaX6Dxwg5e6Bf6reSw
+                 Mail:mailto://mporiya0209@gmail.com
 ```
 
 <a href="https:
