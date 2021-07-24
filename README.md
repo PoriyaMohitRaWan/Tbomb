@@ -67,9 +67,7 @@ You can Run Tbomb by just simply typing `tbomb.sh` or `Tbomb.sh` from any direct
 
 Feel Free To Open An Issue...
 
-```
-                 Mail:mailto://mporiya0209@gmail.com
-```
+                 Mail : mailto://mporiya0209@gmail.com
 
 <a href="https:
 
