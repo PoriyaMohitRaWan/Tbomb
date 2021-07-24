@@ -116,8 +116,29 @@ do
         rm -rf Tbomb
         git clone https://github.com/PoriyaMohitRaWan/Tbomb.git
         cd Tbomb
-	chmod +x TBomb.sh
-        bash TBomb.sh
+	chmod +x install_termux.sh install_debian.sh
+	while :
+	do
+	    echo "On which OS are You at this Time :"
+	    echo ""
+	    echo "__________________________________"
+	    echo ""
+	    echo '''[01] Android'''
+	    echo '''[02] Debian'''
+	    echo ""
+	    echo "__________________________________"
+	    read ch
+	    clear
+	    if [$ch -eq 1 ];then
+	        ./install_termux.sh
+		exit
+	    elif [$ch -eq 2 ];then
+	        ./install_debian.sh
+		exit
+	    else
+                echo -e "\e[4;32m Invalid Input !!! \e[0m"
+                pause
+            fi
         exit
     elif [ $ch -eq 3 ];then
         echo ""
