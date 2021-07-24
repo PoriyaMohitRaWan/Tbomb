@@ -1,1 +1,1 @@
-cd /home/unknown/Tbomb/&&./TBomb.sh
+cd&&cd Tbomb/&&./TBomb.sh
