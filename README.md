@@ -70,6 +70,7 @@ Feel Free To Open An Issue  :~
                  Instagram : __poriya_mohit_ra_wan__
 
 <a href="mailto://mporiy0209@gmail.com">Report An Issue on Email</a>
+<br>
 <a href="https://www.instagram.com/__poriya_mohit_ra_wan__/">Report An Issue on Instagram</a>
 
 
