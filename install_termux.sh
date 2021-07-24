@@ -14,6 +14,6 @@ cd Tbomb/
 ./TBomb.sh
 cp -rf tbomb.sh ../../usr/bin/tbomb.sh
 cp -rf tbomb.sh ../../usr/bin/Tbomb.sh
-echo '''*************************************************************'''
-echo '''**  Now You Can Run Tbomb By Simply Typing tbomb or Tbomb  **'''
-echo '''*************************************************************'''
+echo '''*******************************************************************'''
+echo '''**  Now You Can Run Tbomb By Simply Typing tbomb.sh or Tbomb.sh  **'''
+echo '''*******************************************************************'''
